@@ -6,7 +6,7 @@ Proyecto desarrollado en Java para el despliegue de una aplicación Spring que a
 
 1. Descargar el código fuente de GIT:
 
-[GIT-CORREOSBG-SPRINGBOOTRESTJDBC](https://steps.everis.com/git/CORREOSBG/springbootrestjdbc)
+[SPRINGBOOTJDBC-GIT](https://github.com/cabannas/springbootrestjdbc-master/)
 
 2. Importar el proyecto en el IDE (en este caso he usado eclipse debido a las facilidades que otorga a la hora de lanzar aplicaciones Spring)
 
@@ -69,5 +69,3 @@ La aplicación cuenta un una serie de controles de errores muy limitados, no se 
 [How to use Spring JDBC Template with Spring Boot for Postgres DataBase](https://grokonez.com/spring-framework/spring-boot/how-to-use-jdbc-template-with-spring-boot-for-postgres-database)
 
 [Spring Framework 4.3 New Feature RequestMapping: @GetMapping, @PostMapping, @PutMapping, @DeleteMapping](https://grokonez.com/spring-framework/spring-boot/spring-framework-4-3-new-feature-requestmapping-getmapping-postmapping-putmapping-deletemapping)
-
-[Proyecto Aplicación SpringBoot con RequestMapping y JDBC para PostgreSQL](https://steps.everis.com/confluence/pages/viewpage.action?pageId=1173029099)
